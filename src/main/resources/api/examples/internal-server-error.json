@@ -1,0 +1,7 @@
+{
+                "code": 500,
+                "message": "Internal Server Error",
+                "description": "The server encounter un expected error, please reach out support team",
+                "datetime": "09-06-2021",
+                "transactionID": "35ca3fc2-1fe8-4f64-8d39-18777849e8f1"
+              }

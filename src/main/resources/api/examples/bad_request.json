@@ -1,0 +1,7 @@
+{
+                "code": 400,
+                "message": "Bad Request",
+                "description": "Invalid input payload",
+                "datetime": "09-06-2021",
+                "transactionID": "35ca3fc2-1fe8-4f64-8d39-18777849e8f1"
+              }
